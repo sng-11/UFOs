@@ -1,6 +1,7 @@
 # UFO Sightings
 
 ## Overview of Project
+The purpose of this coding project is to create a dynamic HTML webpage that allows users to view data on UFO sightings. Using Javascript, CSS, and Bootstrap, this HTML webpage is designed to take raw UFO sightings data and put them in a dynamic table. The purpose of this page is to also allow users to filter the displayed data based on parameters they are interested in, such as sightings on a certain date, in a certain country etc. The coding used in this project allows for this dynamic interface to be created.
 
 ## Results
 
