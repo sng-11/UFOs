@@ -5,6 +5,10 @@ The purpose of this coding project is to create a dynamic HTML webpage that allo
 
 ## Results
 
+1. The table can be filtered based on date of interest:
+
+<img width="1426" alt="Screen Shot 2021-09-12 at 10 04 56 PM" src="https://user-images.githubusercontent.com/84816495/133013436-ec02a470-ac1c-48f5-8999-426bf635364c.png">
+
 ## Summary
 A drawback of this current design of the webpage is that it is necessary for the exact same text entered in the input boxes in order to filter appropriately. For example, while "benton" as a city will yield the necessary row, inputting "Benton" will not. 
 
